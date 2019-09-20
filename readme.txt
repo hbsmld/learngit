@@ -1,3 +1,3 @@
 ﻿git is a system.
 git is free.
-git git hh.
+git is a software.
